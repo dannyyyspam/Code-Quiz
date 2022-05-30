@@ -42,7 +42,7 @@ Created by Daniel A.
 
 ## **_Link to deployed URL_**
 
-
+https://dannyyyspam.github.io/Code-Quiz/
 
 ## **_Link URL to GitHub Repository_**
 
