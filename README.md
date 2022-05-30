@@ -33,7 +33,7 @@ THEN I can save my initials and score
 
 Created by Daniel A.
 
-<img width="850" alt="exemple" src=images/ex1.png>
+<img width="850" alt="exemple" src=assets/images/ex1.png>
 <img width="850" alt="exemple" src=images/ex2.png>
 <img width="850" alt="exemple" src=images/ex3.png>
 <img width="850" alt="exemple" src=images/ex4.png>
